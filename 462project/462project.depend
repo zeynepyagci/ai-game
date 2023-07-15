@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1671781675 source:c:\users\zeeyn\desktop\ai project\462project\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<bits/stdc++.h>
+	<algorithm>
+
+1669914988 source:c:\users\zeeyn\desktop\ai project\462project\src\ai.cpp
+	"AI.h"
+
+1669914988 c:\users\zeeyn\desktop\ai project\462project\include\ai.h
+
